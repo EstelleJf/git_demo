@@ -5,3 +5,4 @@ version modified to 2.0
 3. comiit version 
 4. commit version
 5. branch test
+6. feature1 version: a new vsersiton to demo project
