@@ -1,2 +1,3 @@
 add a  file  is used to test and stuy git remote storage.
-测试dev分支管理 dev 分支建立 并修改aa文件做测试
+测试feature1分支管理 dev 分支建立 并修改aa文件做测试；dev分支合并后删除
+创建feature1分支，并修改aa文件
