@@ -1,0 +1,13 @@
+{
+    "name": "setellejf/git_demo",
+    "description": "a test composer",
+    "type": "project",
+    "require": {},
+    "authors": [
+        {
+            "name": "EstelleJf",
+            "email": "260318270@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

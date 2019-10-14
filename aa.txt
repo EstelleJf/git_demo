@@ -3,5 +3,7 @@ add a  file  is used to test and stuy git remote storage.
 创建feature1分支，并修改aa文件 ,
 返回master主分支，修改aa文件。
 
-重新创建dev分支，并修改aa文件
-issue -101 bug修复
+dev分支内容，修改
+demo/ 多人合作测试
+clone/git_demo  多人合作测试
+demo/ 多人合作测试 2
