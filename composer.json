@@ -1,13 +1,14 @@
 {
-    "name": "setellejf/git_demo",
-    "description": "a test composer",
+    "name": "estellejf/demo",
+    "description": "a test composer study",
     "type": "project",
-    "require": {},
+    "require": {
+        "estellejf/git_demo": "*"
+    },
     "authors": [
         {
             "name": "EstelleJf",
             "email": "260318270@qq.com"
         }
-    ],
-    "minimum-stability": "stable"
+    ]
 }
